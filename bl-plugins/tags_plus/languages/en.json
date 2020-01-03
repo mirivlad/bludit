@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Improved tag list",
+		"description": "Implements a simple tag cloud."
+	}
+}
