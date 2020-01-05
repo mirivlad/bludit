@@ -34,6 +34,7 @@ class pluginYandexTurbo extends Plugin {
 		$html .= '<input id="xmlname" name="xmlname" type="text" value="'.$this->getValue('xmlname').'">';
 		$html .= '<span class="tip">'.$L->get('xml-file-name').'<br>'.$L->get('ya-tip').'</span>';
 		$html .= '</div>';
+		//https://webmaster.yandex.ru/site/https:mirv.top:443/turbo/sources/
 		$html .= '<div>';
 		$html .= '<label>'.$L->get('Amount of items').'</label>';
 		$html .= '<input id="jsnumberOfItems" name="numberOfItems" type="text" value="'.$this->getValue('numberOfItems').'">';
@@ -95,10 +96,10 @@ class pluginYandexTurbo extends Plugin {
 				$xml .= '<link>'.$this->encodeURL($page->permalink()).'</link>';
 				$xml .= '<description>'.Sanitize::html($page->contentBreak()).'</description>';
 
-				if (Text::isNotEmpty($page->contentBreak())){
+				if (Text::isNotEmpty($page->content())){
 					$xml .= '<turbo:content>
 								<![CDATA[
-									'.$page->contentBreak().'
+									'.$page->content().'
 								]]>
 							</turbo:content>';
 							$xml .= '<turbo:source>'.$this->encodeURL($page->permalink()).'</turbo:source>';
