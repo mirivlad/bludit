@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "Yandex Turbo",
+		"description": "Этот плагин генерирует RSS-канал вашего сайта для генерации yandex-turbo страниц. <br> Лента имеет URL-адрес по умолчанию https://example.com/turbo.xml"
+	},
+	"amount-of-items-to-show-on-the-feed": "Количество элементов отображаемых в ленте.",
+	"path-to-xml": "Ссылка на XML файл",
+	"xml-file-name": "Имя XML файла",
+	"ya-tip": "Для добавления турбо-страниц вам потребуется войти в панель Яндекс-Вебмастер https://webmaster.yandex.ru в разделе Источники добавить полный url до вашего XML файла."
+}

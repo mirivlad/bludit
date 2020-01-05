@@ -1,0 +1,11 @@
+{
+	"plugin-data":
+	{
+		"name": "Yandex Turbo",
+		"description": "This plugin generates an RSS feed of your site for generate yandex-turbo pages.<br>The feed has the default URL https://example.com/turbo.xml"
+	},
+	"amount-of-items-to-show-on-the-feed": "Amount of items to show on the feed.",
+	"path-to-xml": "XML file URL",
+	"xml-file-name": "XML file name",
+	"ya-tip": "To add turbo pages you need to enter the Yandex-Webmaster panel https://webmaster.yandex.ru in the Sources section add the full url to your XML file."
+}
