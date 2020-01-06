@@ -1,0 +1,14 @@
+{
+	"plugin-data":
+	{
+		"name": "TinyMCEfileman",
+		"description": "HTML-editor voor het opmaken van inhoud met ingebouwde bestandsbeheerder"
+	},
+	"Toolbar top": "Knoppen op TinyMCE Top Toolbar.",
+	"Toolbar top default": "Standaardwaarde: formatselect bold italic forecolor backcolor removeformat | bullist numlist table | blockquote alignleft aligncenter alignright | link unlink pagebreak image code responsivefilemanager",
+	"Toolbar bottom": "Knop op TinyMCE onderste werkbalk.",
+	"Plugins": "Ingeschakelde TinyMCE-plug-ins.",
+	"Plugins default": "Standaardwaarde: code autolink image link pagebreak advlist lists textpattern table responsivefilemanager",
+	"Filemanager Access Key": "Bestandsleutel toegang (nodig als u USE_ACCESS_KEYS hebt ingeschakeld in de configuratie van de bestandsbeheerder).",
+	"Generate key (refresh for new):": "Sleutel genereren (vernieuwen voor nieuw):"
+}

@@ -1,0 +1,14 @@
+{
+	"plugin-data":
+	{
+		"name": "TinyMCEfileman",
+		"description": "توضیحات": "ویرایشگر HTML برای قالب بندی محتوا با مدیر فایل داخلی"
+	},
+	"Toolbar top": "دکمه ها در نوار ابزار بالای TinyMCE.",
+	"Toolbar top default": "مقدار پیش فرض: formatselect bold italic forecolor backcolor removeformat | bullist numlist table | blockquote alignleft aligncenter alignright | link unlink pagebreak image code responsivefilemanager",
+	"Toolbar bottom": "دکمه در نوار ابزار پایین TinyMCE.",
+	"Plugins": "افزونه های TinyMCE را فعال کنید.",
+	"Plugins default": "مقدار پیش فرض: code autolink image link pagebreak advlist lists textpattern table responsivefilemanager",
+	"Filemanager Access Key": "کلید دسترسی Filemanager (در صورتی که USE_ACCESS_KEYS را در پیکربندی filemanager فعال کنید) لازم است.",
+	"Generate key (refresh for new):": "کلید ایجاد کنید (تازه کردن جدید):"
+}

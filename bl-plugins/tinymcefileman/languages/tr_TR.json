@@ -1,0 +1,14 @@
+{
+	"plugin-data":
+	{
+		"name": "TinyMCEfileman",
+		"description": "Dahili dosya yöneticisi ile içeriği biçimlendirmek için HTML düzenleyicisi"
+	},
+	"Toolbar top": "TinyMCE Üst Araç Çubuğundaki Düğmeler.",
+	"Toolbar top default": "Varsayılan değer: formatselect bold italic forecolor backcolor removeformat | bullist numlist table | blockquote alignleft aligncenter alignright | link unlink pagebreak image code responsivefilemanager",
+	"Toolbar bottom": "TinyMCE Alt Araç Çubuğundaki Düğme.",
+	"Plugins": "Etkin TinyMCE Eklentileri.",
+	"Plugins default": "Varsayılan değer: code autolink image link pagebreak advlist lists textpattern table responsivefilemanager",
+	"Filemanager Access Key": "Filemanager Erişim Anahtarı (filemanager yapılandırmasında USE_ACCESS_KEYS özelliğini etkinleştirdiyseniz gerekir).",
+	"Generate key (refresh for new):": "Anahtar oluştur (yeni için yenile):"
+}

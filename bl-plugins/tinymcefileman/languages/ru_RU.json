@@ -1,0 +1,14 @@
+{
+	"plugin-data":
+	{
+		"name": "TinyMCEfileman",
+		"description": "HTML редактор для форматирования содержимого со встроенным файловым менеджером."
+	},
+	"Toolbar top": "Кнопки на верхней панели инструментов TinyMCE.",
+	"Toolbar top default": "Значение по умолчанию: formatselect bold italic forecolor backcolor removeformat | bullist numlist table | blockquote alignleft aligncenter alignright | link unlink pagebreak image code responsivefilemanager",
+	"Toolbar bottom": "Кнопки на нижней панели инструментов TinyMCE.",
+	"Plugins": "Включенные плагины TinyMCE.",
+	"Plugins default": "Значение по умолчанию: code autolink image link pagebreak advlist lists textpattern table responsivefilemanager",
+	"Filemanager Access Key": "Ключ безопасности для Filemanager (нужен если вы включаете USE_ACCESS_KEYS в конфигурационном файле файлового менеджера).",
+	"Generate key (refresh for new):": "Сгенерированный ключ (перезагрузите страницу для обновления):"
+}

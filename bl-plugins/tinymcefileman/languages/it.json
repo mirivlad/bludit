@@ -1,0 +1,13 @@
+{
+	"plugin-data":
+	{
+		"name": "TinyMCEfileman",
+		"description": "editor HTML per la formattazione di contenuti con file manager integrato"
+	},
+	"Toolbar top": "Pulsanti sulla barra degli strumenti superiore di TinyMCE.",
+	"Toolbar top default": "Valore di default: formatselect bold italic forecolor backcolor removeformat | bullist numlist table | blockquote alignleft aligncenter alignright | link unlink pagebreak image code responsivefilemanager",
+	"Toolbar bottom": "Pulsante sulla barra degli strumenti inferiore di TinyMCE.",
+	"Plugins": "Abilitato plugin TinyMCE.",
+	"Plugins default": "Valore di default: code autolink image link pagebreak advlist lists textpattern table responsivefilemanager",
+	"Filemanager Access Key": "Chiave di accesso al Filemanager (necessaria se hai abilitato USE_ACCESS_KEYS nella configurazione del filemanager).",
+	"Generate key (refresh for new):": "Genera chiave (aggiorna per nuovo):"
