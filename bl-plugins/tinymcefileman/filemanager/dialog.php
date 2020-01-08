@@ -1140,7 +1140,7 @@ $files = $sorted;
             $file_prevent_delete = isset($filePermissions[$file]['prevent_delete']) && $filePermissions[$file]['prevent_delete'];
             }
 			//FIX : dont get proper path for thumbs on Bludit CMS. May be wrong config. Dont understand :(
-			$src_thumb = '../'.$src_thumb;
+			if($is_img) {$src_thumb = '../'.$src_thumb;}
             ?>
 			
             <figure data-name="<?php echo $file ?>" data-path="<?php echo $rfm_subfolder.$subdir.$file;?>" data-type="<?php if($is_img){ echo "img"; }else{ echo "file"; } ?>">
